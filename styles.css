@@ -1,0 +1,47 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.nomenclature_add_button {
+    margin-bottom: 1.8rem;
+}
+
+.nomenclature_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.nomenclature_table_row:hover {
+    background-color: red;
+}
+
+.nomenclature_table_row_selected {
+    background-color: purple;
+}
+
+.nomenclature_item {
+    border: 0.1rem solid #dddddd53;
+    padding: 0.2rem;
+}
+
+.nomenclature_item_header {
+    text-align: center;
+}
+
+.nomenclature_item_variable {
+    font-size: 0rem;
+    text-align: center;
+}
+
+.nomenclature_item_variable_math {
+    font-size: 1rem;
+}
+
+.nomenclature_item_description {
+    text-align: left;
+}
