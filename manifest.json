@@ -1,11 +1,11 @@
 {
 	"id": "obsidian-Nomenclature-table",
 	"name": "Nomenclature table",
-	"version": "0.1.0",
-	"minAppVersion": "0.1.0",
-	"description": "This plugin adds a nomenclature table to a file with macros builtin.",
+	"version": "0.2.0",
+	"minAppVersion": "1.0.0",
+	"description": "This plugin adds a nomenclature table to files",
 	"author": "Still-Here",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }

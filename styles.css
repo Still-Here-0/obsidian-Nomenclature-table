@@ -40,8 +40,25 @@ If your plugin does not need CSS, delete this file.
 
 .nomenclature_item_variable_math {
     font-size: 1rem;
+    text-align: center;
 }
 
 .nomenclature_item_description {
     text-align: left;
+}
+
+.nomenclature_model_math_off {
+    font-size: 0rem;
+}
+
+.nomenclature_model_math_on {
+    height: 1.5rem;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.markdown-preview-view {
+    & div[data-property-key="Nomenclature"] {
+        display:none;
+    }
 }

@@ -1,5 +1,5 @@
 import { Plugin, Notice, PluginManifest, App, WorkspaceLeaf, loadMathJax } from 'obsidian'
-import { NomenclatureView } from './nomenclature-view';
+import { NomenclatureView } from './nomenclatureView/nomenclature.view';
 import { NOMENCLATURE_VIEW_TYPE } from './consts';
 
 export default class NomenclatureTable extends Plugin {
